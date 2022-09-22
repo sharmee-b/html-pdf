@@ -1,0 +1,27 @@
+{
+  "name": "html-to-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "handlebars": "^4.7.7",
+    "html-pdf-node": "^1.0.8",
+    "puppeteer": "^18.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharmee-b/html-to-pdf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharmee-b/html-to-pdf/issues"
+  },
+  "homepage": "https://github.com/sharmee-b/html-to-pdf#readme"
+}
